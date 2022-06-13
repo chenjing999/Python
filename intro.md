@@ -5,6 +5,7 @@ Consider the Pandas DataFrame df below. Convert the columns math and chemistry f
 1  013    88         86
 2  014    90         91
 3  015    85         90
+
 Complete the code to return the output
 import pandas as pd
 
