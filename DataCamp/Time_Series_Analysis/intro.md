@@ -20,4 +20,3 @@ heartbeat sounds.
 
 --forecast the future using ARIMA class models and generate predictions and insights using machine learning models.
 
-### 1. Correlation and Autocorrelation
