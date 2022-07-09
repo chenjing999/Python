@@ -20,3 +20,7 @@ heartbeat sounds.
 
 --forecast the future using ARIMA class models and generate predictions and insights using machine learning models.
 
+
+### Reference:
+https://campus.datacamp.com/courses/time-series-analysis-in-python/correlation-and-autocorrelation?ex=2
+
